@@ -6,7 +6,7 @@
 ## Architecture
 
 ```
-project1-power-forecasting/
+Assignment_1/
 ├── data/
 │   └── Utility_consumption.csv       # 3 years of 10-min load data (157k+ rows)
 ├── notebook/
