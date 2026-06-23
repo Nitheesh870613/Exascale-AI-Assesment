@@ -1,0 +1,1308 @@
+{
+  "factors": [
+    {
+      "section": "Pellet Plant",
+      "material": "Anthracite Coal",
+      "unit": "tonnes",
+      "ef": 1.044,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Iron Scrap",
+      "unit": "tonnes",
+      "ef": 2.849,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Petroleum Coke",
+      "unit": "tonnes",
+      "ef": 1.39,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Bituminous Coal",
+      "unit": "tonnes",
+      "ef": 3.084,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Calcined Petroleum Coke",
+      "unit": "tonnes",
+      "ef": 2.036,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Limestone",
+      "unit": "tonnes",
+      "ef": 3.087,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Natural Gas",
+      "unit": "kNm3",
+      "ef": 2.425,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Fuel Oil",
+      "unit": "KL",
+      "ef": 2.539,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Diesel",
+      "unit": "KL",
+      "ef": 1.757,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "LPG",
+      "unit": "tonnes",
+      "ef": 3.346,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Kerosene",
+      "unit": "KL",
+      "ef": 2.255,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Low Carbon Steel",
+      "unit": "tonnes",
+      "ef": 1.486,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Ferrochrome",
+      "unit": "tonnes",
+      "ef": 2.124,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Ferro Manganese",
+      "unit": "tonnes",
+      "ef": 0.071,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Ferro Silicon",
+      "unit": "tonnes",
+      "ef": 1.058,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Silico Manganese",
+      "unit": "tonnes",
+      "ef": 2.312,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Coke Oven Gas",
+      "unit": "kNm3",
+      "ef": 1.018,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Blast Furnace Gas",
+      "unit": "kNm3",
+      "ef": 2.165,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "BOF Gas",
+      "unit": "kNm3",
+      "ef": 1.503,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Coal Tar",
+      "unit": "tonnes",
+      "ef": 0.478,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Pitch",
+      "unit": "tonnes",
+      "ef": 1.047,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "EAF Electrodes",
+      "unit": "tonnes",
+      "ef": 1.997,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Dolomite",
+      "unit": "tonnes",
+      "ef": 2.07,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "Crude Dolomite",
+      "unit": "tonnes",
+      "ef": 2.012,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "DRI",
+      "material": "HFO",
+      "unit": "KL",
+      "ef": 2.288,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Lubricating Oil",
+      "unit": "KL",
+      "ef": 2.284,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Hydraulic Oil",
+      "unit": "KL",
+      "ef": 1.512,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Transformer Oil",
+      "unit": "KL",
+      "ef": 3.138,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Ethylene",
+      "unit": "tonnes",
+      "ef": 1.289,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Methane",
+      "unit": "kNm3",
+      "ef": 1.528,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Acetylene",
+      "unit": "kNm3",
+      "ef": 3.122,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Oxygen",
+      "unit": "kNm3",
+      "ef": 2.822,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Argon",
+      "unit": "kNm3",
+      "ef": 2.465,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Nitrogen",
+      "unit": "kNm3",
+      "ef": 0.354,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Ammonia",
+      "unit": "tonnes",
+      "ef": 3.219,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Propane",
+      "unit": "tonnes",
+      "ef": 2.501,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "SMS",
+      "material": "Biomass Briquettes",
+      "unit": "tonnes",
+      "ef": 3.496,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Charcoal",
+      "unit": "tonnes",
+      "ef": 0.526,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Plastic Waste Fuel",
+      "unit": "tonnes",
+      "ef": 3.039,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Wood Chips",
+      "unit": "tonnes",
+      "ef": 0.572,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Firewood",
+      "unit": "tonnes",
+      "ef": 2.156,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Carbon Black",
+      "unit": "tonnes",
+      "ef": 0.437,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Steel Scrap",
+      "unit": "tonnes",
+      "ef": 2.969,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Wire drawing",
+      "material": "Recycled Oil",
+      "unit": "KL",
+      "ef": 2.826,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "FAD",
+      "material": "Spent Solvents",
+      "unit": "KL",
+      "ef": 1.994,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "FAD",
+      "material": "Waste Lubricants",
+      "unit": "KL",
+      "ef": 1.428,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "FAD",
+      "material": "High Speed Diesel",
+      "unit": "KL",
+      "ef": 0.246,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "FAD",
+      "material": "Mineral Turpentine Oil",
+      "unit": "KL",
+      "ef": 2.442,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "FAD",
+      "material": "Glycerine",
+      "unit": "tonnes",
+      "ef": 1.59,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "FAD",
+      "material": "Process Gas Mix",
+      "unit": "Nm3",
+      "ef": 2.528,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "FAD",
+      "material": "Producer Gas",
+      "unit": "Nm3",
+      "ef": 3.033,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "FAD",
+      "material": "Sponge Iron",
+      "unit": "tonnes",
+      "ef": 3.414,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "FAD",
+      "material": "Mill Scale",
+      "unit": "tonnes",
+      "ef": 2.996,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Power Plant",
+      "material": "Hot Metal",
+      "unit": "tonnes",
+      "ef": 0.045,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Power Plant",
+      "material": "Refractory Waste",
+      "unit": "tonnes",
+      "ef": 1.262,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Power Plant",
+      "material": "Carbon Paste",
+      "unit": "tonnes",
+      "ef": 2.556,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Power Plant",
+      "material": "Waste Tyres",
+      "unit": "tonnes",
+      "ef": 0.604,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Power Plant",
+      "material": "Used Oils",
+      "unit": "KL",
+      "ef": 1.826,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Power Plant",
+      "material": "Coolant Fluids",
+      "unit": "KL",
+      "ef": 0.194,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Power Plant",
+      "material": "Sludge Cake",
+      "unit": "tonnes",
+      "ef": 0.703,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Overall",
+      "material": "Non-condensable Gases",
+      "unit": "Nm3",
+      "ef": 0.069,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Overall",
+      "material": "Combustible Residue",
+      "unit": "tonnes",
+      "ef": 2.779,
+      "source": "IPCC 2006 Guidelines"
+    },
+    {
+      "section": "Overall",
+      "material": "Industrial Grease",
+      "unit": "tonnes",
+      "ef": 0.787,
+      "source": "IPCC 2006 Guidelines"
+    }
+  ],
+  "records": [
+    {
+      "section": "Pellet Plant",
+      "material": "Anthracite Coal",
+      "timeline": "Q1",
+      "quantity": 136843.66,
+      "ghg_tco2": 142864.781
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Iron Scrap",
+      "timeline": "Q1",
+      "quantity": 399043.61,
+      "ghg_tco2": 1136875.245
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Petroleum Coke",
+      "timeline": "Q1",
+      "quantity": 92899.41,
+      "ghg_tco2": 129130.1799
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Bituminous Coal",
+      "timeline": "Q1",
+      "quantity": 476400.55,
+      "ghg_tco2": 1469219.296
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Calcined Petroleum Coke",
+      "timeline": "Q1",
+      "quantity": 343775.39,
+      "ghg_tco2": 699926.694
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Limestone",
+      "timeline": "Q1",
+      "quantity": 107832.29,
+      "ghg_tco2": 332878.2792
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Natural Gas",
+      "timeline": "Q1",
+      "quantity": 47369055.82,
+      "ghg_tco2": 114869960.4
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Fuel Oil",
+      "timeline": "Q1",
+      "quantity": 7311.25,
+      "ghg_tco2": 18563.26375
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Diesel",
+      "timeline": "Q1",
+      "quantity": 2546.88,
+      "ghg_tco2": 4474.86816
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "LPG",
+      "timeline": "Q1",
+      "quantity": 106734.66,
+      "ghg_tco2": 357134.1724
+    },
+    {
+      "section": "DRI",
+      "material": "Kerosene",
+      "timeline": "Q1",
+      "quantity": 5186.83,
+      "ghg_tco2": 11696.30165
+    },
+    {
+      "section": "DRI",
+      "material": "Low Carbon Steel",
+      "timeline": "Q1",
+      "quantity": 12928.79,
+      "ghg_tco2": 19212.18194
+    },
+    {
+      "section": "DRI",
+      "material": "Ferrochrome",
+      "timeline": "Q1",
+      "quantity": 103814.29,
+      "ghg_tco2": 220501.552
+    },
+    {
+      "section": "DRI",
+      "material": "Ferro Manganese",
+      "timeline": "Q1",
+      "quantity": 212400.27,
+      "ghg_tco2": 15080.41917
+    },
+    {
+      "section": "DRI",
+      "material": "Ferro Silicon",
+      "timeline": "Q1",
+      "quantity": 187147.57,
+      "ghg_tco2": 198002.1291
+    },
+    {
+      "section": "DRI",
+      "material": "Silico Manganese",
+      "timeline": "Q1",
+      "quantity": 231841.35,
+      "ghg_tco2": 536017.2012
+    },
+    {
+      "section": "DRI",
+      "material": "Coke Oven Gas",
+      "timeline": "Q1",
+      "quantity": 13888659.03,
+      "ghg_tco2": 14138654.89
+    },
+    {
+      "section": "DRI",
+      "material": "Blast Furnace Gas",
+      "timeline": "Q1",
+      "quantity": 29343349.48,
+      "ghg_tco2": 63528351.62
+    },
+    {
+      "section": "DRI",
+      "material": "BOF Gas",
+      "timeline": "Q1",
+      "quantity": 43194141.74,
+      "ghg_tco2": 64920795.04
+    },
+    {
+      "section": "DRI",
+      "material": "Coal Tar",
+      "timeline": "Q1",
+      "quantity": 58854.17,
+      "ghg_tco2": 28132.29326
+    },
+    {
+      "section": "DRI",
+      "material": "Pitch",
+      "timeline": "Q1",
+      "quantity": 258737.82,
+      "ghg_tco2": 270898.4975
+    },
+    {
+      "section": "DRI",
+      "material": "EAF Electrodes",
+      "timeline": "Q1",
+      "quantity": 66120.85,
+      "ghg_tco2": 132043.3375
+    },
+    {
+      "section": "DRI",
+      "material": "Dolomite",
+      "timeline": "Q1",
+      "quantity": 358458.15,
+      "ghg_tco2": 742008.3705
+    },
+    {
+      "section": "DRI",
+      "material": "Crude Dolomite",
+      "timeline": "Q1",
+      "quantity": 198090.25,
+      "ghg_tco2": 398557.583
+    },
+    {
+      "section": "DRI",
+      "material": "HFO",
+      "timeline": "Q1",
+      "quantity": 5658.56,
+      "ghg_tco2": 12946.78528
+    },
+    {
+      "section": "SMS",
+      "material": "Lubricating Oil",
+      "timeline": "Q1",
+      "quantity": 1840.97,
+      "ghg_tco2": 4204.77548
+    },
+    {
+      "section": "SMS",
+      "material": "Hydraulic Oil",
+      "timeline": "Q1",
+      "quantity": 1457.03,
+      "ghg_tco2": 2203.02936
+    },
+    {
+      "section": "SMS",
+      "material": "Transformer Oil",
+      "timeline": "Q1",
+      "quantity": 4885.68,
+      "ghg_tco2": 15331.26384
+    },
+    {
+      "section": "SMS",
+      "material": "Ethylene",
+      "timeline": "Q1",
+      "quantity": 177870.81,
+      "ghg_tco2": 229275.4741
+    },
+    {
+      "section": "SMS",
+      "material": "Methane",
+      "timeline": "Q1",
+      "quantity": 47022192.94,
+      "ghg_tco2": 71849910.81
+    },
+    {
+      "section": "SMS",
+      "material": "Acetylene",
+      "timeline": "Q1",
+      "quantity": 38268609.44,
+      "ghg_tco2": 119474598.7
+    },
+    {
+      "section": "SMS",
+      "material": "Oxygen",
+      "timeline": "Q1",
+      "quantity": 37435694.36,
+      "ghg_tco2": 105643529.5
+    },
+    {
+      "section": "SMS",
+      "material": "Argon",
+      "timeline": "Q1",
+      "quantity": 45186949.79,
+      "ghg_tco2": 111385831.2
+    },
+    {
+      "section": "SMS",
+      "material": "Nitrogen",
+      "timeline": "Q1",
+      "quantity": 4180287.55,
+      "ghg_tco2": 1479821.793
+    },
+    {
+      "section": "SMS",
+      "material": "Ammonia",
+      "timeline": "Q1",
+      "quantity": 276141.02,
+      "ghg_tco2": 888897.9434
+    },
+    {
+      "section": "SMS",
+      "material": "Propane",
+      "timeline": "Q1",
+      "quantity": 292279.59,
+      "ghg_tco2": 730991.2546
+    },
+    {
+      "section": "SMS",
+      "material": "Biomass Briquettes",
+      "timeline": "Q1",
+      "quantity": 480972.0,
+      "ghg_tco2": 1681478.112
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Charcoal",
+      "timeline": "Q1",
+      "quantity": 146144.55,
+      "ghg_tco2": 76872.0333
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Plastic Waste Fuel",
+      "timeline": "Q1",
+      "quantity": 120490.31,
+      "ghg_tco2": 366170.0521
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Wood Chips",
+      "timeline": "Q1",
+      "quantity": 50236.94,
+      "ghg_tco2": 28735.52968
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Firewood",
+      "timeline": "Q1",
+      "quantity": 8313.17,
+      "ghg_tco2": 17923.19452
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Carbon Black",
+      "timeline": "Q1",
+      "quantity": 464771.71,
+      "ghg_tco2": 203105.2373
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Steel Scrap",
+      "timeline": "Q1",
+      "quantity": 334991.28,
+      "ghg_tco2": 994589.1103
+    },
+    {
+      "section": "Wire drawing",
+      "material": "Recycled Oil",
+      "timeline": "Q1",
+      "quantity": 7853.68,
+      "ghg_tco2": 22194.49968
+    },
+    {
+      "section": "FAD",
+      "material": "Spent Solvents",
+      "timeline": "Q1",
+      "quantity": 2824.48,
+      "ghg_tco2": 5632.01312
+    },
+    {
+      "section": "FAD",
+      "material": "Waste Lubricants",
+      "timeline": "Q1",
+      "quantity": 5868.24,
+      "ghg_tco2": 8379.84672
+    },
+    {
+      "section": "FAD",
+      "material": "High Speed Diesel",
+      "timeline": "Q1",
+      "quantity": 648.91,
+      "ghg_tco2": 159.63186
+    },
+    {
+      "section": "FAD",
+      "material": "Mineral Turpentine Oil",
+      "timeline": "Q1",
+      "quantity": 4861.42,
+      "ghg_tco2": 11871.58764
+    },
+    {
+      "section": "FAD",
+      "material": "Glycerine",
+      "timeline": "Q1",
+      "quantity": 488749.82,
+      "ghg_tco2": 777112.2138
+    },
+    {
+      "section": "FAD",
+      "material": "Process Gas Mix",
+      "timeline": "Q1",
+      "quantity": 43826497.21,
+      "ghg_tco2": 110793384.9
+    },
+    {
+      "section": "FAD",
+      "material": "Producer Gas",
+      "timeline": "Q1",
+      "quantity": 16914566.0,
+      "ghg_tco2": 51301878.68
+    },
+    {
+      "section": "FAD",
+      "material": "Sponge Iron",
+      "timeline": "Q1",
+      "quantity": 480788.92,
+      "ghg_tco2": 1641413.373
+    },
+    {
+      "section": "FAD",
+      "material": "Mill Scale",
+      "timeline": "Q1",
+      "quantity": 115927.64,
+      "ghg_tco2": 347319.2094
+    },
+    {
+      "section": "Power Plant",
+      "material": "Hot Metal",
+      "timeline": "Q1",
+      "quantity": 474664.48,
+      "ghg_tco2": 21359.9016
+    },
+    {
+      "section": "Power Plant",
+      "material": "Refractory Waste",
+      "timeline": "Q1",
+      "quantity": 470694.71,
+      "ghg_tco2": 594016.724
+    },
+    {
+      "section": "Power Plant",
+      "material": "Carbon Paste",
+      "timeline": "Q1",
+      "quantity": 399621.37,
+      "ghg_tco2": 1021432.222
+    },
+    {
+      "section": "Power Plant",
+      "material": "Waste Tyres",
+      "timeline": "Q1",
+      "quantity": 315260.92,
+      "ghg_tco2": 190417.5957
+    },
+    {
+      "section": "Power Plant",
+      "material": "Used Oils",
+      "timeline": "Q1",
+      "quantity": 8744.14,
+      "ghg_tco2": 15966.79964
+    },
+    {
+      "section": "Power Plant",
+      "material": "Coolant Fluids",
+      "timeline": "Q1",
+      "quantity": 2937.27,
+      "ghg_tco2": 569.83038
+    },
+    {
+      "section": "Power Plant",
+      "material": "Sludge Cake",
+      "timeline": "Q1",
+      "quantity": 424486.88,
+      "ghg_tco2": 298414.2766
+    },
+    {
+      "section": "Overall",
+      "material": "Non-condensable Gases",
+      "timeline": "Q1",
+      "quantity": 40897655.83,
+      "ghg_tco2": 2821938.252
+    },
+    {
+      "section": "Overall",
+      "material": "Combustible Residue",
+      "timeline": "Q1",
+      "quantity": 8717.11,
+      "ghg_tco2": 24224.84869
+    },
+    {
+      "section": "Overall",
+      "material": "Industrial Grease",
+      "timeline": "Q1",
+      "quantity": 143682.04,
+      "ghg_tco2": 113077.7655
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Anthracite Coal",
+      "timeline": "Q2",
+      "quantity": 156843.66,
+      "ghg_tco2": 163744.781
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Iron Scrap",
+      "timeline": "Q2",
+      "quantity": 599043.61,
+      "ghg_tco2": 1706675.245
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Petroleum Coke",
+      "timeline": "Q2",
+      "quantity": 102899.41,
+      "ghg_tco2": 143030.1799
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Bituminous Coal",
+      "timeline": "Q2",
+      "quantity": 276400.55,
+      "ghg_tco2": 852419.2962
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Calcined Petroleum Coke",
+      "timeline": "Q2",
+      "quantity": 343875.39,
+      "ghg_tco2": 700130.294
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Limestone",
+      "timeline": "Q2",
+      "quantity": 117832.29,
+      "ghg_tco2": 363748.2792
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Natural Gas",
+      "timeline": "Q2",
+      "quantity": 47600055.82,
+      "ghg_tco2": 115430135.4
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Fuel Oil",
+      "timeline": "Q2",
+      "quantity": 8311.25,
+      "ghg_tco2": 21102.26375
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "Diesel",
+      "timeline": "Q2",
+      "quantity": 3546.88,
+      "ghg_tco2": 6231.86816
+    },
+    {
+      "section": "Pellet Plant",
+      "material": "LPG",
+      "timeline": "Q2",
+      "quantity": 166734.66,
+      "ghg_tco2": 557894.1724
+    },
+    {
+      "section": "DRI",
+      "material": "Kerosene",
+      "timeline": "Q2",
+      "quantity": 8186.83,
+      "ghg_tco2": 18461.30165
+    },
+    {
+      "section": "DRI",
+      "material": "Low Carbon Steel",
+      "timeline": "Q2",
+      "quantity": 15928.79,
+      "ghg_tco2": 23670.18194
+    },
+    {
+      "section": "DRI",
+      "material": "Ferrochrome",
+      "timeline": "Q2",
+      "quantity": 133814.29,
+      "ghg_tco2": 284221.552
+    },
+    {
+      "section": "DRI",
+      "material": "Ferro Manganese",
+      "timeline": "Q2",
+      "quantity": 215400.27,
+      "ghg_tco2": 15293.41917
+    },
+    {
+      "section": "DRI",
+      "material": "Ferro Silicon",
+      "timeline": "Q2",
+      "quantity": 197147.57,
+      "ghg_tco2": 208582.1291
+    },
+    {
+      "section": "DRI",
+      "material": "Silico Manganese",
+      "timeline": "Q2",
+      "quantity": 251841.35,
+      "ghg_tco2": 582257.2012
+    },
+    {
+      "section": "DRI",
+      "material": "Coke Oven Gas",
+      "timeline": "Q2",
+      "quantity": 13908659.03,
+      "ghg_tco2": 14159014.89
+    },
+    {
+      "section": "DRI",
+      "material": "Blast Furnace Gas",
+      "timeline": "Q2",
+      "quantity": 39343349.48,
+      "ghg_tco2": 85178351.62
+    },
+    {
+      "section": "DRI",
+      "material": "BOF Gas",
+      "timeline": "Q2",
+      "quantity": 33194141.74,
+      "ghg_tco2": 49890795.04
+    },
+    {
+      "section": "DRI",
+      "material": "Coal Tar",
+      "timeline": "Q2",
+      "quantity": 78854.17,
+      "ghg_tco2": 37692.29326
+    },
+    {
+      "section": "DRI",
+      "material": "Pitch",
+      "timeline": "Q2",
+      "quantity": 259937.82,
+      "ghg_tco2": 272154.8975
+    },
+    {
+      "section": "DRI",
+      "material": "EAF Electrodes",
+      "timeline": "Q2",
+      "quantity": 66020.85,
+      "ghg_tco2": 131843.6375
+    },
+    {
+      "section": "DRI",
+      "material": "Dolomite",
+      "timeline": "Q2",
+      "quantity": 558458.15,
+      "ghg_tco2": 1156008.371
+    },
+    {
+      "section": "DRI",
+      "material": "Crude Dolomite",
+      "timeline": "Q2",
+      "quantity": 188090.25,
+      "ghg_tco2": 378437.583
+    },
+    {
+      "section": "DRI",
+      "material": "HFO",
+      "timeline": "Q2",
+      "quantity": 7658.56,
+      "ghg_tco2": 17522.78528
+    },
+    {
+      "section": "SMS",
+      "material": "Lubricating Oil",
+      "timeline": "Q2",
+      "quantity": 1860.97,
+      "ghg_tco2": 4250.45548
+    },
+    {
+      "section": "SMS",
+      "material": "Hydraulic Oil",
+      "timeline": "Q2",
+      "quantity": 2057.03,
+      "ghg_tco2": 3110.22936
+    },
+    {
+      "section": "SMS",
+      "material": "Transformer Oil",
+      "timeline": "Q2",
+      "quantity": 4885.68,
+      "ghg_tco2": 15331.26384
+    },
+    {
+      "section": "SMS",
+      "material": "Ethylene",
+      "timeline": "Q2",
+      "quantity": 177870.81,
+      "ghg_tco2": 229275.4741
+    },
+    {
+      "section": "SMS",
+      "material": "Methane",
+      "timeline": "Q2",
+      "quantity": 77022192.94,
+      "ghg_tco2": 117689910.8
+    },
+    {
+      "section": "SMS",
+      "material": "Acetylene",
+      "timeline": "Q2",
+      "quantity": 3999609.44,
+      "ghg_tco2": 12486780.67
+    },
+    {
+      "section": "SMS",
+      "material": "Oxygen",
+      "timeline": "Q2",
+      "quantity": 37489694.36,
+      "ghg_tco2": 105795917.5
+    },
+    {
+      "section": "SMS",
+      "material": "Argon",
+      "timeline": "Q2",
+      "quantity": 55186949.79,
+      "ghg_tco2": 136035831.2
+    },
+    {
+      "section": "SMS",
+      "material": "Nitrogen",
+      "timeline": "Q2",
+      "quantity": 5180287.55,
+      "ghg_tco2": 1833821.793
+    },
+    {
+      "section": "SMS",
+      "material": "Ammonia",
+      "timeline": "Q2",
+      "quantity": 776141.02,
+      "ghg_tco2": 2498397.943
+    },
+    {
+      "section": "SMS",
+      "material": "Propane",
+      "timeline": "Q2",
+      "quantity": 992279.59,
+      "ghg_tco2": 2481691.255
+    },
+    {
+      "section": "SMS",
+      "material": "Biomass Briquettes",
+      "timeline": "Q2",
+      "quantity": 880972.0,
+      "ghg_tco2": 3079878.112
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Charcoal",
+      "timeline": "Q2",
+      "quantity": 166144.55,
+      "ghg_tco2": 87392.0333
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Plastic Waste Fuel",
+      "timeline": "Q2",
+      "quantity": 180490.31,
+      "ghg_tco2": 548510.0521
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Wood Chips",
+      "timeline": "Q2",
+      "quantity": 50876.94,
+      "ghg_tco2": 29101.60968
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Firewood",
+      "timeline": "Q2",
+      "quantity": 8313.17,
+      "ghg_tco2": 17923.19452
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Carbon Black",
+      "timeline": "Q2",
+      "quantity": 482371.71,
+      "ghg_tco2": 210796.4373
+    },
+    {
+      "section": "Rolling Mill",
+      "material": "Steel Scrap",
+      "timeline": "Q2",
+      "quantity": 674991.28,
+      "ghg_tco2": 2004049.11
+    },
+    {
+      "section": "Wire drawing",
+      "material": "Recycled Oil",
+      "timeline": "Q2",
+      "quantity": 9853.68,
+      "ghg_tco2": 27846.49968
+    },
+    {
+      "section": "FAD",
+      "material": "Spent Solvents",
+      "timeline": "Q2",
+      "quantity": 2824.48,
+      "ghg_tco2": 5632.01312
+    },
+    {
+      "section": "FAD",
+      "material": "Waste Lubricants",
+      "timeline": "Q2",
+      "quantity": 7868.24,
+      "ghg_tco2": 11235.84672
+    },
+    {
+      "section": "FAD",
+      "material": "High Speed Diesel",
+      "timeline": "Q2",
+      "quantity": 1000.91,
+      "ghg_tco2": 246.22386
+    },
+    {
+      "section": "FAD",
+      "material": "Mineral Turpentine Oil",
+      "timeline": "Q2",
+      "quantity": 7661.42,
+      "ghg_tco2": 18709.18764
+    },
+    {
+      "section": "FAD",
+      "material": "Glycerine",
+      "timeline": "Q2",
+      "quantity": 888749.82,
+      "ghg_tco2": 1413112.214
+    },
+    {
+      "section": "FAD",
+      "material": "Process Gas Mix",
+      "timeline": "Q2",
+      "quantity": 43826497.21,
+      "ghg_tco2": 110793384.9
+    },
+    {
+      "section": "FAD",
+      "material": "Producer Gas",
+      "timeline": "Q2",
+      "quantity": 18814566.0,
+      "ghg_tco2": 57064578.68
+    },
+    {
+      "section": "FAD",
+      "material": "Sponge Iron",
+      "timeline": "Q2",
+      "quantity": 480000.0,
+      "ghg_tco2": 1638720.0
+    },
+    {
+      "section": "FAD",
+      "material": "Mill Scale",
+      "timeline": "Q2",
+      "quantity": 115927.64,
+      "ghg_tco2": 347319.2094
+    },
+    {
+      "section": "Power Plant",
+      "material": "Hot Metal",
+      "timeline": "Q2",
+      "quantity": 474664.48,
+      "ghg_tco2": 21359.9016
+    },
+    {
+      "section": "Power Plant",
+      "material": "Refractory Waste",
+      "timeline": "Q2",
+      "quantity": 470694.71,
+      "ghg_tco2": 594016.724
+    },
+    {
+      "section": "Power Plant",
+      "material": "Carbon Paste",
+      "timeline": "Q2",
+      "quantity": 399621.37,
+      "ghg_tco2": 1021432.222
+    },
+    {
+      "section": "Power Plant",
+      "material": "Waste Tyres",
+      "timeline": "Q2",
+      "quantity": 315260.92,
+      "ghg_tco2": 190417.5957
+    },
+    {
+      "section": "Power Plant",
+      "material": "Used Oils",
+      "timeline": "Q2",
+      "quantity": 8744.14,
+      "ghg_tco2": 15966.79964
+    },
+    {
+      "section": "Power Plant",
+      "material": "Coolant Fluids",
+      "timeline": "Q2",
+      "quantity": 4937.27,
+      "ghg_tco2": 957.83038
+    },
+    {
+      "section": "Power Plant",
+      "material": "Sludge Cake",
+      "timeline": "Q2",
+      "quantity": 624486.88,
+      "ghg_tco2": 439014.2766
+    }
+  ]
+}
